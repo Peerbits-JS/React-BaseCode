@@ -116,7 +116,7 @@ export default function Login1() {
                 className="btn btn-primary-theme btn-lg"
                 onClick={formik.handleSubmit}
               >
-                Sign Up
+                Sign In
               </button>
               <p className="mt-90 text-muted mb-0">
                 Copyright ©2021 Product by Jur Inc.
